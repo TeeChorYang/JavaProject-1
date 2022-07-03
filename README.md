@@ -10,4 +10,5 @@ This assignment require student to build a VENDING MACHINE with GUI. And system 
 This project is accomplished by using Apache NetBeans IDE 12.6.
 
 Log In As Customers- Username = user. Password = 123.
+
 Log In As Admin- Username = admin. Password = 123.
