@@ -1,5 +1,6 @@
 # Java Project
 #Java Programming #University Assignment #Diploma Level
+
 This assignment require student to build a VENDING MACHINE with GUI. And system need to include the following characteristics: 
  • The Vending Machine should allow user to select items they are interested and then pay accordingly.
  • Machine staff can upload items into the machine, system should be running continuously unless an exit command is issued.
