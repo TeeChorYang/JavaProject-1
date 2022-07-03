@@ -1,0 +1,9 @@
+Item ID,Item Name,Price (RM),Stock
+D1:Coca Cola:2:Available
+D2:Pepsi:2:Available
+D3:Kickapoo:2:Available
+D4:Milo:4:Available
+D5:F&N:2:Available
+D6:Fanta:2:Available
+D7:Red Bull:3:Available
+D8:Yeo's Soy:2:Available
