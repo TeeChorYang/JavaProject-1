@@ -1,4 +1,4 @@
-# Java Project
+# The Vending Machine
 #Java Programming #University Assignment #Diploma Level
 
 This assignment require student to build a VENDING MACHINE with GUI. And system need to include the following characteristics: 
